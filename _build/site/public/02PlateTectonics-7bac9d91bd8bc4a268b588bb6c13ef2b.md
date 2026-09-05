@@ -1,0 +1,321 @@
+# 2 Plate Tectonics
+
+In this lab, we will learn how to use latitude and longitude to locate positions on Earth's surface while exploring the theory of plate tectonics. We will examine the evidence for continental drift, identify different types of plate boundaries, and investigate the relationships between earthquakes, volcanoes, and seafloor spreading.
+
+## Learning Objectives
+
+Students will learn and demonstrate their understanding of:
+- Use latitude and longitude to locate positions on a map.
+- Identify and differentiate types of plate boundaries (divergent, convergent, transform). 
+- Evaluate evidence supporting continental drift. I
+- Interpret geologic maps and cross-sections related to tectonic processes. 
+- Analyze relationships between earthquakes, volcanoes, and plate boundaries.
+- Calculate seafloor spreading rates using distance and time data. 
+- Plot earthquake data to identify Benioff zones and subduction geometry. 
+
+Watch [the StoryMap](https://arcg.is/1Si4ju0) below for an introduction to today's lab topic. 
+
+<div class="container">
+<iframe src="https://storymaps.arcgis.com/stories/16e5fd6138854a65bb22e1f05f6191fe"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+## Latitude and Longitude 
+
+
+<div class="container">
+<iframe src="https://www.youtube.com/embed/t5ek0yFuCD8"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+## Theory of Plate Tectonics 
+
+Revolution is a word usually reserved for significant political or social changes. Several of these idea revolutions forced scientists to re-examine their entire field, triggering a paradigm shift that shook up their conventionally held knowledge. Charles Darwin’s book on evolution, On the Origin of Species, published in 1859; Gregor Mendel’s discovery of the genetic principles of inheritance in 1866; and James Watson, Francis Crick, and Rosalind Franklin’s model for the structure of DNA in 1953 did that for biology. Albert Einstein’s relativity and quantum mechanics concepts in the early twentieth century did the same for Newtonian physics. 
+
+The concept of plate tectonics was just as revolutionary for geology. The theory of plate tectonics attributes the movement of massive sections of the Earth’s outer layers with creating earthquakes, mountains, and volcanoes. Many earth processes make more sense when viewed through the lens of plate tectonics. Because it is so important in understanding how the world works, plate tectonics is the first topic of discussion in this textbook. 
+
+### Continental Drift Hypothesis 
+
+Alfred Wegener (1880-1930) was a German scientist who specialized in meteorology and climatology. His knack for questioning accepted ideas started in 1910 when he disagreed with the explanation that the Bering Land Bridge was formed by isostasy, and that similar land bridges once connected the continents. After reviewing the scientific literature, he published a hypothesis stating the continents were originally connected, and then drifted apart. While he did not have the precise mechanism worked out, his hypothesis was backed up by a long list of evidence. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Alfred_Wegener_ca.1924-30.jpg/960px-Alfred_Wegener_ca.1924-30.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+---
+name: wegener
+figclass: margin-caption
+---
+Wegener later in his life, ca. 1924-1930. [Image source](https://en.wikipedia.org/wiki/Alfred_Wegener)
+```
+
+
+
+### Early Evidence
+
+Wegener’s first piece of evidence was that the coastlines of some continents fit together like pieces of a jigsaw puzzle. People noticed the similarities in the coastlines of South America and Africa on the first world maps, and some suggested the continents had been ripped apart. Antonio Snider-Pellegrini did preliminary work on continental separation and matching fossils in 1858. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Antonio_Snider-Pellegrini_Opening_of_the_Atlantic.jpg/960px-Antonio_Snider-Pellegrini_Opening_of_the_Atlantic.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+---
+name: snider-pellegrini
+figclass: margin-caption
+---
+Snider-Pellegrini’s map showing the continental fit and separation, 1858. [Image source](https://en.wikipedia.org/wiki/Antonio_Snider-Pellegrini)
+```
+
+What Wegener did differently was synthesize a large amount of data in one place. He used true edges of the continents, based on the shapes of the continental shelves. This resulted in a better fit than previous efforts that traced the existing coastlines. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Snider-Pellegrini_Wegener_fossil_map.svg/960px-Snider-Pellegrini_Wegener_fossil_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+---
+name: gondwana
+figclass: margin-caption
+---
+Image showing fossils that connect the Gondwana continents (the southern continents of Pangea). [Image source](https://en.wikipedia.org/wiki/Alfred_Wegener)
+```
+
+Wegener also compiled evidence by comparing similar rocks, mountains, fossils, and glacial formations across oceans. For example, the fossils of the primitive aquatic reptile Mesosaurus were found on the separate coastlines of Africa and South America. Fossils of another reptile, Lystrosaurus, were found on Africa, India, and Antarctica. He pointed out these were land-dwelling creatures and could not have swum across an entire ocean. 
+
+Opponents of continental drift insisted trans-oceanic land bridges allowed animals and plants to move between continents. The land bridges eventually eroded away, leaving the continents permanently separated. The problem with this hypothesis is the improbability of a land bridge being tall and long enough to stretch across a broad, deep ocean. 
+
+More support for continental drift came from the puzzling evidence that glaciers once existed in normally very warm areas in southern Africa, India, Australia, and Arabia. These climate anomalies could not be explained by land bridges. Wegener found similar evidence when he discovered tropical plant fossils in the frozen region of the Arctic Circle. As Wegener collected more data, he realized the explanation that best fit all the climate, rock, and fossil observations involved moving continents. 
+
+### Proposed Mechanism
+
+Wegener’s work was considered a fringe science theory for his entire life. One of the biggest flaws in his hypothesis was an inability to provide a mechanism for how the continents moved. Obviously, the continents did not appear to move, and changing the conservative minds of the scientific community would require exceptional evidence that supported a credible mechanism. Other pro-continental drift followers used expansion, contraction, or even the moon’s origin to explain how the continents moved. Wegener used centrifugal forces and precession, but this model was proven wrong. He also speculated about seafloor spreading, with hints of convection, but could not substantiate these proposals. As it turns out, current scientific knowledge reveals convection is one of the major forces in driving plate movements, along with gravity and density. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/0/01/Convection-snapshot.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original
+---
+name: mechanism
+figclass: margin-caption
+---
+Simulation of thermal convection in the Earth's mantle. Hot areas are shown in red, cold areas are shown in blue. A hot, less-dense material at the bottom moves upwards, and likewise, cold material from the top moves downwards. [Image source](https://en.wikipedia.org/wiki/Convection)
+```
+
+
+Wegener died in 1930 on an expedition in Greenland. Poorly respected in his lifetime, Wegener and his ideas about moving continents seemed destined to be lost in history as fringe science. However, in the 1950s, evidence started to trickle in that made continental drift a more viable idea. By the 1960s, scientists had amassed enough evidence to support the missing mechanism—namely, seafloor spreading—for Wegener’s hypothesis of continental drift to be accepted as the theory of plate tectonics. Ongoing GPS and earthquake data analyses continue to support this theory. The next section provides the pieces of evidence that helped transform one man’s wild notion into a scientific theory. 
+
+### Mapping of the Ocean Floors 
+
+In 1947 researchers started using an adaptation of SONAR to map a region in the middle of the Atlantic Ocean with poorly-understood topographic and thermal properties. Using this information, Bruce Heezen and Marie Tharp created the first detailed map of the ocean floor to reveal the Mid-Atlantic Ridge, a basaltic mountain range that spanned the length of the Atlantic Ocean, with rock chemistry and dimensions unlike the mountains found on the continents. Initially, scientists thought the ridge was part of a mechanism that explained the expanding Earth or ocean-basin growth hypotheses. In 1959, Harry Hess proposed the hypothesis of seafloor spreading – that the mid-ocean ridges represented tectonic plate factories, where new oceanic plate was issuing from these long volcanic ridges. Scientists later included transform faults perpendicular to the ridges to better account for varying rates of movement between the newly formed plates. When earthquake epicenters were discovered along the ridges, the idea that earthquakes were linked to plate movement took hold. 
+
+## Layers of the Earth 
+
+### Chemical Layers
+
+Earth is composed of countless combinations of elements. Regardless of what elements are involved two major factors—temperature and pressure—are responsible for creating three distinct chemical layers. 
+
+There are 3 distinct layers we will separate the Earth into: Crust, Mantle, Core.
+
+```{figure} https://www.nps.gov/subjects/geology/images/physical-states-of-earth-layers-3-10x.png?maxwidth=1300&autorotate=false&quality=78&format=webp 
+---
+name: layers
+figclass: margin-caption
+---
+The layers of the Earth. Physical layers include lithosphere and asthenosphere; chemical layers are crust, mantle, and core. Left: Diagram of the different physical states due to increasing temperature and pressure with depth. Right: The structure of hard lithosphere, softer asthenosphere, and hard lower mantle make the outer portions of the Earth similar to an Oreo® cookie. [Image source](https://www.nps.gov/subjects/geology/plate-tectonics-inner-earth-model.htm)
+```
+
+#### Crust 
+
+The outermost chemical layer and the one we currently reside on is the crust. There are two types of crust. The continental crust has a relatively low density and composition similar to granite. The oceanic crust has a relatively high density, especially when cold and old, and its composition is similar to basalt. The surface of the crust is relatively brittle. The deeper parts of the crust are subjected to higher temperatures and pressure, which makes them more ductile. Ductile materials are like soft plastics or putty, they move under force. Brittle materials are like solid glass or pottery, they break under force, especially when it is applied quickly. Earthquakes, generally occur in the upper crust and are caused by the rapid movement of relatively brittle materials. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/1920px-Subduction-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 
+---
+name: moho
+figclass: margin-caption
+---
+Earth's crust and mantle, Moho discontinuity between bottom of crust and solid uppermost mantle. [Image source](https://en.wikipedia.org/wiki/Mohorovi%C4%8Di%C4%87_discontinuity)
+```
+
+
+The base of the crust is characterized by a large increase in seismic velocity, which measures how fast earthquake waves travel through solid matter. Called the Mohorovičić Discontinuity, or Moho for short, this zone was discovered by Andrija Mohorovičić (pronounced mo-ho-ro-vee-cheech) in 1909 after studying earthquake wave paths in his native Croatia. The change in wave direction and speed is caused by dramatic chemical differences between the crust and mantle. Underneath the oceans, the Moho is found roughly 5 km below the ocean floor. Under the continents, it is located about 30-40 km below the surface. Near certain large mountain-building events known as orogenies, the continental Moho depth is doubled. 
+
+#### Mantle 
+
+The mantle sits below the crust and above the core. It is the largest chemical layer by volume, extending from the base of the crust to a depth of about 2900 km. Most of what we know about the mantle comes from seismic wave analysis, though information is also gathered by studying ophiolites and xenoliths. Ophiolites are pieces of the mantle that have risen through the crust until they are exposed as part of the ocean floor. Xenoliths are carried within magma and brought to the Earth’s surface by volcanic eruptions. Most xenoliths are made of peridotite, an ultramafic class of igneous rock. Because of this, scientists hypothesize most of the mantle is made of peridotite. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kilbourne_Hole_%28GeoDIL_number_-_2302%29.jpg/1280px-Kilbourne_Hole_%28GeoDIL_number_-_2302%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+---
+name: mantle
+figclass: margin-caption
+---
+Green xenoliths of peridotite from the mantle are surrounded by black volcanic lava. These peridotite xenoliths were carried upward from the mantle by molten magma during a volcanic eruption in Arizona. [Image source](https://en.wikipedia.org/wiki/Earth's_mantle)
+```
+
+
+#### Core 
+
+The core of the Earth has both liquid and solid layers and consists mostly of iron, nickel, and possibly some oxygen. Scientists looking at seismic data first discovered this innermost chemical layer in 1906. Through a union of hypothetical modeling, astronomical insight, and hard seismic data, they concluded the core is mostly metallic iron. Scientists studying meteorites, which typically contain more iron than surface rocks, have proposed the earth was formed from meteoric material. They believe the liquid component of the core was created as the iron and nickel sank into the center of the planet, where it was liquefied by intense pressure. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/7/79/Murnpeowie_meteorite.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+---
+name: core
+figclass: margin-caption
+---
+Murnpeowie meteorite, an iron meteorite with regmaglypts (thumprint-like depressions), from ablation caused by aerodynamic heating during fall. [Image source](https://en.wikipedia.org/wiki/Meteorite)
+```
+
+
+### Physical Layers 
+
+The Earth can also be broken down into five distinct physical layers based on how each layer responds to stress. While there is some overlap in the chemical and physical designations of layers, specifically the core-mantle boundary, there are significant differences between the two systems. 
+
+#### Lithosphere 
+
+Lithos is Greek for stone, and the lithosphere is the outermost physical layer of the Earth. It is grouped into two types: oceanic and continental. The oceanic lithosphere is thin and relatively rigid. It ranges in thickness from nearly zero in new plates found around mid-ocean ridges, to an average of 140 km in most other locations. The Continental lithosphere is generally thicker and considerably more plastic, especially at the deeper levels. Its thickness ranges from 40 to 280 km. The lithosphere is not continuous. It is broken into segments called plates. A plate boundary is where two plates meet and move relative to each other. Plate boundaries are where we see plate tectonics in action—mountain building, triggering earthquakes, and generating volcanic activity. 
+
+```{figure} https://www.nps.gov/subjects/geology/images/Fig-1-3-New-Tectonic-Map-x10.jpg?maxwidth=1300&autorotate=false&quality=78&format=webp
+---
+name: plates
+figclass: margin-caption
+---
+Earth’s outer shell (lithosphere) is broken into tectonic plates that move relative to one another. The plates rip apart at divergent plate boundaries, crash together at convergent plate boundaries, and slide past each other at transform plate boundaries. [Image source](https://www.nps.gov/subjects/geology/plate-tectonics-evidence-of-plate-motions.htm)
+```
+
+
+#### Asthenosphere 
+
+The asthenosphere is the layer below the lithosphere. Astheno- means lacking strength, and the most distinctive property of the asthenosphere is movement. Because it is mechanically weak, this layer moves and flows due to convection currents created by heat coming from the earth’s core cause. Unlike the lithosphere which consists of multiple plates, the asthenosphere is relatively unbroken. Scientists have determined this by analyzing seismic waves that pass through the layer. The depth at which the asthenosphere is found is temperature-dependent. It tends to lie closer to the earth’s surface around mid-ocean ridges and much deeper underneath mountains and the centers of lithospheric plates. See [](#layers)
+
+
+## Plate Boundaries 
+
+At passive margins, the plates don’t move—the continental lithosphere transitions into oceanic lithosphere and forms plates made of both types. A tectonic plate may be made of both oceanic and continental lithosphere connected by a passive margin. North and South America’s eastern coastlines are examples of passive margins. Active margins are places where the oceanic and continental lithospheric tectonic plates meet and move relative to each other, such as the western coasts of North and South America. This movement is caused by frictional drag created between the plates and differences in plate densities. The majority of mountain-building events, earthquake activity, and active volcanism on the Earth’s surface can be attributed to tectonic plate movement at active margins. 
+
+In a simplified model, there are three categories of tectonic plate boundaries. Convergent boundaries are places where plates move toward each other. At divergent boundaries, the plates move apart. At transform boundaries, the plates slide past each other. 
+
+```{figure} https://oceanexplorer.noaa.gov/wp-content/uploads/2012/09/plate-boundaries-800.jpg
+---
+name: boundaries
+figclass: margin-caption
+---
+This image shows the three main types of plate boundaries: divergent, convergent, and transform. _Image courtesy of the U.S. Geological Survey._ [Image source](https://oceanexplorer.noaa.gov/ocean-fact/plate-boundaries/)
+```
+
+### Convergent Boundaries
+
+Convergent boundaries, also called destructive boundaries, are places where two or more plates move toward each other. . Convergent boundary movement is divided into two types, subduction, and collision, depending on the density of the involved plates. The continental lithosphere is of lower density and thus more buoyant than the underlying asthenosphere. The oceanic lithosphere is denser than the continental lithosphere, and, when old and cold, may even be denser than the asthenosphere. 
+
+When plates of different densities converge, the higher-density plate is pushed beneath the more buoyant plate in a process called subduction. When continental plates converge without subduction occurring, this process is called a collision. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/World_geologic_provinces.jpg/960px-World_geologic_provinces.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+---
+name: orogenies
+figclass: margin-caption
+---
+Geologic provinces of Earth. Orogenies are labeled light blue. [Image source](https://en.wikipedia.org/wiki/Geologic_province)
+```
+
+#### Subduction
+
+Subduction occurs when a dense oceanic plate meets a more buoyant plate, like a continental plate or warmer/younger oceanic plate, and descends into the mantle. The worldwide average rate of oceanic plate subduction is 25 miles per million years, about a half-inch per year. As an oceanic plate descends, it pulls the ocean floor down into a trench. These trenches can be more than twice as deep as the average depth of the adjacent ocean basin, which is usually three to four km. The Mariana Trench, for example, approaches a staggering 11 km. 
+
+<div class="container">
+<iframe src="https://opengeology.org/textbook/wp-content/uploads/2016/07/Subduction.mp4?_=1"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+[Video](http://emvc.geol.ucsb.edu/2_infopgs/IP1GTect/cSubduction.html) showing continental-oceanic subduction, causing volcanism. By Tanya Atwater and John Iwerks.
+
+
+#### Oceanic-Continental subduction 
+
+Oceanic-continental subduction occurs when an oceanic plate dives below a continental plate. This convergent boundary has a trench and mantle wedge and frequently, a volcanic arc. Well-known examples of continental volcanic arcs are the Cascade Mountains in the Pacific Northwest and the western Andes Mountains in South America. 
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/JuandeFucasubduction.jpg/330px-JuandeFucasubduction.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 
+---
+name: oceanic-subduction
+figclass: margin-caption
+---
+Subduction of an oceanic plate beneath a continental plate, forming a trench and volcanic arc. The Juan de Fuca plate sinks below the North America plate at the Cascadia subduction zone [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/03/OceanContSub-300x177.gif)
+```
+
+
+
+#### Oceanic-Oceanic Subduction 
+
+The boundaries of oceanic-oceanic subduction zones show very different activity from those involving oceanic-continental plates. Since both plates are made of oceanic lithosphere, it is usually the older plate that subducts because it is colder and denser. The volcanism on the overlying oceanic plate may remain hidden underwater.. If the volcanoes rise high enough the reach the ocean surface, the chain of volcanism forms an island arc. Examples of these island arcs include the Aleutian Islands in the northern Pacific Ocean, the Lesser Antilles in the Caribbean Sea, and numerous island chains scattered throughout the western Pacific Ocean. 
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2017/03/Fig21oceanocean-300x173.gif
+---
+name: oceanic-oceanic-subduction
+figclass: margin-caption
+---
+Subduction of an oceanic plate beneath another oceanic plate, forming a trench and an island arc. [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/03/Fig21oceanocean-300x173.gif)
+```
+
+#### Collisions 
+
+When continental plates converge, during the closing of an ocean basin, for example, subduction is not possible between the equally buoyant plates. Instead of one plate descending beneath another, the two masses of continental lithosphere slam together in a process known as a collision. Without subduction, there is no magma formation and no volcanism. Collision zones are characterized by tall, non-volcanic mountains; a broad zone of frequent, large earthquakes; and very little volcanism. 
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2017/03/contcontCollision-300x180.gif
+---
+name: collisions
+figclass: margin-caption
+---
+Two continental plates colliding. [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/03/contcontCollision-300x180.gif)
+```
+
+
+### Divergent Boundaries
+
+At divergent boundaries, sometimes called constructive boundaries, lithospheric plates move away from each other. There are two types of divergent boundaries, categorized by where they occur: continental rift zones and mid-ocean ridges. Continental rift zones occur in weak spots in the continental lithospheric plate. A mid-ocean ridge usually originates in a continental plate as a rift zone that expands to the point of splitting the plate apart, with seawater filling in the gap. The separate pieces continue to drift apart and become individual continents. This process is known as rift-to-drift. 
+
+#### Mid-ocean ridges 
+
+As rifting and volcanic activity progress, the continental lithosphere becomes more mafic and thinner, with the eventual result transforming the plate under the rifting area into the oceanic lithosphere. This is the process that gives birth to a new ocean, much like the narrow Red Sea emerged with the movement of Arabia away from Africa. As the oceanic lithosphere continues to diverge, a mid-ocean ridge is formed. 
+
+Mid-ocean ridges, also known as spreading centers, have several distinctive features. They are the only places on earth that create new oceanic lithosphere. Decompression melting in the rift zone changes asthenosphere material into the new lithosphere, which oozes up through cracks in the oceanic plate. The amount of new lithosphere being created at mid-ocean ridges is highly significant. These undersea rift volcanoes produce more lava than all other types of volcanism combined. Despite this, most mid-oceanic ridge volcanism remains unmapped because the volcanoes are located deep on the ocean floor. 
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2017/03/Ocean-birth.svg_-212x300.png
+---
+name: mor
+figclass: margin-caption
+---
+Progression from rift to mid-ocean ridge. [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/03/Ocean-birth.svg_-212x300.png)
+```
+
+In rare cases, such as a few locations in Iceland, rift zones display the type of volcanism, spreading, and ridge formation found on the ocean floor. 
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2017/02/age_oceanic_lith-300x191.jpg
+---
+name: oceanic-lithosphere
+figclass: margin-caption
+---
+Age of oceanic lithosphere, in millions of years. Notice the differences in the Atlantic Ocean along the coasts of the continents. [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/02/age_oceanic_lith-300x191.jpg)
+```
+
+The ridge feature is created by the accumulation of hot lithosphere material, which is lighter than the dense underlying asthenosphere. This chunk of isostatically buoyant lithosphere sits partially submerged and partially exposed on the asthenosphere, like an ice cube floating in a glass of water. 
+
+As the ridge continues to spread, the lithosphere material is pulled away from the area of volcanism and becomes colder and denser. As it continues to spread and cool, the lithosphere settles into wide swathes of relatively featureless topography called abyssal plains with lower topography. 
+
+This model of ridge formation suggests the sections of lithosphere furthest away from the mid-ocean ridges will be the oldest. Scientists have tested this idea by comparing the age of rocks located in various locations on the ocean floor. Rocks found near ridges are younger than those found far away from any ridges. Sediment accumulation patterns also confirm the idea of sea-floor spreading. Sediment layers tend to be thinner near mid-ocean ridges, indicating it has had less time to build up. 
+
+<div class="container">
+<iframe src="https://www.youtube.com/embed/6o1HawAOTEI"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+_[Video](http://emvc.geol.ucsb.edu/2_infopgs/IP3RegTect/bNoCentAtlantic.html) of the breakup of Pangea and the formation of the northern Atlantic Ocean. By Tanya Atwater._
+### Transform Boundaries
+
+A transform boundary, sometimes called a strike-slip or conservative boundary, is where the lithospheric plates slide past each other in the horizontal plane. This movement is described based on the perspective of an observer standing on one of the plates, looking across the boundary at the opposing plate. Dextral, also known as right-lateral, movement describes the opposing plate moving to the right. Sinistral, also known as left lateral, movement describes the opposing plate moving to the left. 
+
+Most transform boundaries are found on the ocean floor, around mid-ocean ridges. These boundaries form aseismic fracture zones, filled with earthquake-free transform faults, to accommodate different rates of spreading occurring at the ridge. 
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2017/03/Strike_slip_fault-300x137.png
+---
+name: strike-slip
+figclass: margin-caption
+---
+The two types of transform/strike slip faults.  [Image source](https://opengeology.org/textbook/wp-content/uploads/2017/03/Strike_slip_fault-300x137.png)
+```
+
+
+```{figure} https://opengeology.org/textbook/wp-content/uploads/2016/07/Sanandreas-217x300.jpg
+---
+name: sanandreas
+figclass: margin-caption
+---
+Map of the San Andreas fault, showing relative motion.   [Image source](https://opengeology.org/textbook/wp-content/uploads/2016/07/Sanandreas-217x300.jpg)
+```
+
+
+Some transform boundaries produce significant seismic activity, primarily as earthquakes, with very little mountain-building or volcanism. This type of transform boundary may contain a single fault or series of faults, which develop in places where plate tectonic stresses are transferred to the surface. As with other types of active boundaries, if the plates are unable to shear past each other the tectonic forces will continue to build up. If the built-up energy between the plates is suddenly released, the result is an earthquake. 
+
+In the eyes of humanity, the most significant transform faults occur within continental plates and have a shearing motion that frequently produces moderate-to-large magnitude earthquakes. Notable examples include the San Andreas Fault in California, the Northern and Eastern Anatolian Faults in Turkey, the Altyn Tagh Fault in central Asia, and the Alpine Fault in New Zealand. 
