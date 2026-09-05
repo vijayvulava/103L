@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "414a78dab780e4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02PlateTectonics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02PlateTectonics"
-            }
-          },
-          {
-            "id": "c08421b0f04f2021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03Earthquakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03Earthquakes"
-            }
-          },
-          {
-            "id": "d08d63c6cdaf169f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03Earthquakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03Earthquakes"
-            }
-          },
-          {
-            "id": "31c780dbc421a117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05Mountains.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05Mountains"
-            }
-          },
-          {
-            "id": "792b27415492df79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06SurfProc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06SurfProc"
-            }
-          },
-          {
-            "id": "9614f7bc5f70b4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07CoastalProc1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07CoastalProc1"
-            }
-          },
-          {
-            "id": "429004396260e556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08CoastalProc2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08CoastalProc2"
-            }
-          },
-          {
-            "id": "5bf0930a296abc45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09Groundwater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09Groundwater"
-            }
-          },
-          {
             "id": "75cf39261490db09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04Volcanoes.md",
+                "file": "10Climate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04Volcanoes"
+              "title": "10Climate"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "623d3ef4c533e95a",
@@ -299,53 +185,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "792b27415492df79",
+  "active": "75cf39261490db09",
   "lastOpenFiles": [
-    "_build/site/public/natural-levées-e9889513c5468328cde4338e7f4578c2.png",
-    "_build/site/public/06SurfProc-2c4ae8004c26d61a1a643b691f0af3bb.md",
-    "_build/site/public/06SurfProc-f592efe118f813b0c7395b5383c4d066.md",
-    "_build/site/public/06SurfProc-75f0666bcff63dc6a4164996916a6af0.md",
-    "assets/natural-levées.png",
-    "_build/site/public/11.6_Mississippirive-65a7cfa23768616299ec633844e85bdd.png",
-    "_build/site/public/06SurfProc-e35a87e046e53bfac443125bf4e5932d.md",
-    "assets/11.6_Mississippiriver-new-01.png",
-    "assets/Unconfirmed 102789.crdownload",
-    "_build/site/public/Nowitna_river-with-a-ffb2efa53919a6a0ed2deea846afec49.jpg",
-    "_build/site/public/06SurfProc-9fc20710ebff9d299860d9aad5f9326d.md",
-    "_build/site/public/06SurfProc-a75ee3a46ceddebf7b0990a3ee7b18cf.md",
-    "assets/Nowitna_river-with-approaching-cutoff.jpg",
-    "assets/Unconfirmed 780731.crdownload",
-    "_build/site/public/11.6_CirqueMadeleine-af59810aa91d4678a034c193d3568fd6.jpg",
-    "_build/site/public/06SurfProc-ac8ae177645b21a5204c44f0e3a46ebf.md",
-    "_build/site/public/06SurfProc-da47b3177458e521e782a4ec129383e5.md",
-    "assets/11.6_CirqueMadeleine.jpg",
-    "assets/Unconfirmed 315464.crdownload",
-    "_build/site/public/06SurfProc-7a2725625a02531dd7505c9ff1b58d10.md",
-    "_build/site/public/Rio-cauto-cuba-01d5d5e5d17015f2a27b6775b041cbce.jpg",
-    "_build/site/public/06SurfProc-7a8d5365e12952ac8d848c4659ba9f26.md",
-    "_build/site/public/06SurfProc-b9c087531bf2765d9138eb95129758d1.md",
-    "assets/Rio-cauto-cuba.jpg",
-    "_build/site/public/11.7-Waimakariri01_g-3267b078f5f5d9f27b2a26edcb8f11c2.jpg",
-    "_build/site/public/06SurfProc-dc8fcc9725db45024e9f549ea966b235.md",
-    "03Earthquakes.md",
-    "_build/site/public/03Earthquakes-0dd4f13e7f1dc0a5d9273b9e36a0aafa.md",
-    "_build/site/public/03Earthquakes-4a6a28264053d7b61c3c4e68f7f8cbac.md",
-    "_build/site/public/03Earthquakes-1b79dcde12c46d59be47e837a7f3ca3e.md",
-    "_build/site/public/03Earthquakes-193c973d8907cc54c6ad747614997432.md",
-    "_build/site/public/03Earthquakes-bc78f1b39f3d04d6873fffc7fc559020.md",
-    "_build/site/public/03Earthquakes-b2a355016e81fdc094985671516e59a9.md",
-    "05Mountains.md",
-    "_build/site/public/05Mountains-aab0df1871ef27dab67ac0118d7e4a1b.md",
-    "assets/Unconfirmed 995346.crdownload",
-    "_build/site/public/05Mountains-6beed11fc3a0e906ac6407602e493dd8.md",
-    "_build/site/public/05Mountains-dec9aa412236e2d86119eed2273951c9.md",
-    "_build/site/public/05Mountains-b08607e81c815148b23d9d50eeccf0b2.md",
-    "_build/site/public/05Mountains-1b86223cec546def3de8d856343bcc84.md",
-    "assets/Unconfirmed 84497.crdownload",
-    "assets/Unconfirmed 870795.crdownload",
-    "assets/Unconfirmed 402407.crdownload",
-    "_build/site/public/b05dd8b9c4bf7e08f0f8a0dcd63f9e66.html",
-    "assets/Unconfirmed 787819.crdownload",
-    "assets/Unconfirmed 922245.crdownload"
+    "04Volcanoes.md",
+    "09Groundwater.md",
+    "_build/site/public/09Groundwater-93717dbff082b75e80456f58c8694038.md",
+    "_build/site/public/09Groundwater-776ad349b21c1e2e72d70544825d9b2d.md",
+    "_build/site/public/09Groundwater-10ef2b42ee86204a45bc18423016bfc1.md",
+    "_build/site/public/Sinkhole-b40298fdcccd76114b83d65a2343f84d.jpg",
+    "_build/site/public/09Groundwater-ea1490a88699fcc31a2f3e146ca6789d.md",
+    "assets/Sinkhole.jpg",
+    "assets/Unconfirmed 223219.crdownload",
+    "_build/site/public/09Groundwater-ff6e5d9bc5d1cd9355aaf1820926c417.md",
+    "_build/site/public/09Groundwater-29b10e4c2dd6c9ea8d2d827f16bb3197.md",
+    "_build/site/public/09Groundwater-2196116400cdb74738517c8b18f72a85.md",
+    "_build/site/public/aquifers-and-confini-addaa44671f708574b8409dcb9d9efc4.png",
+    "_build/site/public/09Groundwater-40de2699cc974bd9281b98079bc0b52e.md",
+    "_build/site/public/09Groundwater-71e6ff231124fb5d8be158826b15c911.md",
+    "assets/aquifers-and-confining-layers.png",
+    "assets/Unconfirmed 137171.crdownload",
+    "_build/site/public/09Groundwater-9adcc4f5cd805ecb20435951d142b8db.md",
+    "_build/site/public/GW_cross-section-7095ded7424523af5d23112aa73bc235.jpg",
+    "_build/site/public/09Groundwater-d375d489039232c1d1d384f5737bb119.md",
+    "assets/GW_cross-section.jpg",
+    "_build/site/public/09Groundwater-600feea568d3a5086cdbd025da5bbc38.md",
+    "_build/site/public/GW_cross-section-1-s-a29dd231bf97d8e428f213c0b41afaab.jpg",
+    "_build/site/public/09Groundwater-ad63a33748be7eb2916e26e2f2c89893.md",
+    "_build/site/public/09Groundwater-9b01b83aa2def09826662769636fd09c.md",
+    "_build/site/public/09Groundwater-bf84130326a3dd23ab1920e20f9d2e7d.md",
+    "_build/site/public/09Groundwater-133812d7dd9527c347503254a78666ea.md",
+    "_build/site/public/09Groundwater-66cdd46989fb7204e939e97e76452eb3.md",
+    "_build/site/public/09Groundwater-b4a32817b3aaef070c158b04e17cf4a2.md",
+    "_build/site/public/09Groundwater-74cd3fa33531ef142ca6909b61152cbf.md",
+    "_build/site/public/09Groundwater-42130547ac9ff7dfe69a407e752081c1.md",
+    "_build/site/public/09Groundwater-e7cf2ee5d83d16446b57fd8ec14cea49.md",
+    "_build/site/public/00f9e00000828557f0946176da3f5254.jpeg",
+    "_build/site/public/09Groundwater-1c62651a8e4c55015a9dc0e03c8c0b58.md",
+    "assets/GW_cross-section-1-scaled-e1596482827551.jpg",
+    "assets/Unconfirmed 528115.crdownload",
+    "_build/site/public/9911d0662af789b4960a1b0f9643afae.gif",
+    "_build/site/public/09Groundwater-0e925b5f0929c93ea576772ad2943313.md",
+    "_build/site/public/09Groundwater-91e99d7e33e82fab5658b13527c9ff6f.md",
+    "_build/site/public/d26cf02187503abadc0a37af72c0a33a.html",
+    "assets/Unconfirmed 324512.crdownload",
+    "assets/Unconfirmed 260200.crdownload",
+    "assets/Unconfirmed 72022.crdownload",
+    "assets/Unconfirmed 581332.crdownload",
+    "assets/Unconfirmed 601149.crdownload",
+    "assets/Unconfirmed 93545.crdownload"
   ]
 }

@@ -1,0 +1,110 @@
+
+# 7 Coastal Processes
+
+In this lab, we will explore the dynamic processes that shape our coastlines. We will learn how waves, tides, currents, and sediment transport create and modify coastal landforms, as well as how human activities influence coastal erosion and management.
+
+## Learning Objectives
+
+Students will learn and demonstrate their understanding of:
+- Differentiate between active and passive continental margins.
+- Interpret coastal topography and bathymetry.
+- Explain processes shaping coastlines, including waves, tides, and currents.
+- Describe longshore drift and sediment transport.
+- Analyze coastal landforms such as barrier islands, marshes, and inlets.
+- Evaluate coastal erosion and deposition patterns.
+- Assess human impacts and coastal management strategies.
+
+Watch [the StoryMap](https://arcg.is/SCmLW) below for an introduction to today's lab topic.
+
+<div class="container">
+<iframe src="https://storymaps.arcgis.com/stories/f4cfac34958b4275adf38c4e4f3ac9a1"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+## Coastlines
+
+Approximately 50% of the world’s population lives within 100 km of a coastline. Many coastal areas are centers of economic activity and serve as major hubs for trade, transportation, and tourism. Coastlines provide a wide range of valuable natural resources, including fisheries and deposits of minerals, oil, and gas. Coastal ecosystems, such as salt marshes, mangrove forests, and coral reefs, provide important ecological services and act as buffers against storm surges and erosion, protecting inland areas from the impact of hurricanes and other natural disasters. Coastal areas provide scenic landscapes and natural beauty, attracting tourists and providing a sense of relaxation and well-being. Coastlines often hold cultural and historical significance for human populations. They have been important habitats for indigenous communities and are associated with cultural practices, traditions, and livelihoods. Coastal regions also feature historical sites, archaeological remains, and landmarks that contribute to a place's cultural heritage.
+
+Coastlines are vulnerable to various environmental challenges, including erosion, sea-level rise, and pollution. It is crucial to manage and protect these areas sustainably to ensure their continued benefits for future generations.
+
+In this and the next lab, we will learn about basic geological processes that occur along coastlines similar to Charleston's and how natural and anthropogenic factors affect our coastlines. 
+
+## Types of Coasts
+
+Emergent coasts occur where sea levels fall relative to land level. Submergent coasts occur where sea levels rise relative to land level. Tectonic shifts and sea level changes cause the long-term rise and fall of sea level relative to land. Some features associated with emergent coasts include high cliffs, headlands, exposed bedrock, steep slopes, rocky shores, arches, stacks, tombolos, wave-cut platforms, and wave notches.
+
+### Active/Emergent
+
+In emergent coasts, wave energy, wind, and gravity erode the coastline. The erosional features are elevated relative to the wave zone. Sea cliffs are persistent features as waves cut away at their base and higher rocks calve off by mass wasting. Refracted waves that attack bedrock at the base of headlands may erode or carve out a sea arch, which can extend below sea level in a sea cave. When a sea arch collapses, it leaves one or more rock columns called stacks.
+
+```{figure} assets/A-wave-cut-platform.jpg 
+---
+name: wavenotch
+figclass: margin-caption
+---
+A wave-cut platform in bedded sedimentary rock on Gabriola Island, B.C. The wave-eroded surface is submerged at high tide. [Image source](https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/WaveCutPlatformsAntelopeIslandUT-300x104.jpg)
+```
+
+A stack or near shore island creates a quiet water zone behind it.  Sand moving in the longshore drift accumulates in this quiet zone forming a tombolo: a sand strip that connects the island or stack to the shoreline. Where sand supply is low, wave energy may erode a wave-cut platform across the surf zone, exposed as bare rock with tidal pools at low tide. This bench-like terrace extends to the cliff’s base. When wave energy cuts into the base of a sea cliff, it creates a wave notch.
+
+### Passive/Submergent
+
+Submergent coasts occur where sea levels rise relative to land. This may be due to tectonic subsidence—when the Earth’s crust sinks—or when sea levels rise due to glacier melt. Features associated with submergent coasts include flooded river mouths, fjords, barrier islands, lagoons, estuaries, bays, tidal flats, and tidal currents. In submergent coastlines, river mouths are flooded by the rising water, for example Chesapeake Bay. Fjords are glacial valleys flooded by post-ice age sea level rise. Barrier islands are elongated bodies of sand that formed from old beach sands that used to parallel the shoreline. Often, lagoons lie behind barrier islands. Barrier island formation is controversial: some scientists believe that they formed when ice sheets melted after the last ice age, raising sea levels. Another hypothesis is that barrier islands formed from spits and bars accumulating far offshore.
+
+[Text Source](https://slcc.pressbooks.pub/introgeology/chapter/12-shorelines/)
+
+### Forces that shape the coast
+
+<div class="container">
+<iframe src="https://www.youtube.com/embed/u-MFerc-pis"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+
+### Longshore Transport/Waves
+
+As waves enter shallower water less than one-half wavelength depth, they slow down. Waves usually approach the shoreline at an angle, with the end of the waves nearest the beach slowing down first. This causes the wave crests to bend,  called wave refraction. From the beach face, this causes it to look like waves are approaching the beach straight on, parallel to the beach. However, as refracted waves actually approach the shoreline at a slight angle, they create a slight difference between the swash as it moves up the beach face at a slight angle and the backwash as it flows straight back down under gravity. This slight angle between swash and backwash along the beach creates a current called the longshore current. Waves stir up sand in the surf zone and move it along the shore. This movement of sand is called longshore drift. Longshore drift along both the west and east coasts of North America moves sand north to south on average.
+
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Longshore_drift.svg/330px-Longshore_drift.svg.png
+---
+name: longshore
+figclass: margin-caption
+---
+Longshore drift along a coastline. [Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Longshore_drift.svg/330px-Longshore_drift.svg.png)
+```
+
+Longshore currents can carry longshore drift down a coast until it reaches a bay or inlet where it will deposit sand in the quieter water. Here, a spit can form. As the spit grows, it may extend across the mouth of the bay forming a barrier called a baymouth bar. Where the bay or inlet serves as boat anchorage, spits and baymouth bars are a severe inconvenience. Often, inconvenienced communities create methods to keep their bays and harbors open.
+
+```{figure} https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/FarewellSpitNZ.jpg
+---
+name: spit
+figclass: margin-caption
+---
+Farewell Spit, New Zealand. [Image source](https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/FarewellSpitNZ.jpg)
+```
+
+[Text Source](https://slcc.pressbooks.pub/introgeology/chapter/12-shorelines/)
+
+### Tides
+
+Tides are the rising and lowering of sea level during the day and are caused by the gravitational effects of the Sun and Moon on the oceans. The Earth rotates daily within the Moon and Sun’s gravity fields. Although the Sun is much larger and its gravitational pull is more powerful, the Moon is closer to Earth; hence, the Moon’s gravitational influence on tides is dominant. The magnitude of the tide at a given location and the difference between high and low tide—the tidal range, depends primarily on the configuration of the Moon and Sun with respect to the Earth orbit and rotation. Spring tide occurs when the Sun, Moon, and Earth line up with each other at the full or new Moon, and the tidal range is at a maximum. Neap tide occurs approximately two weeks later when the Moon and Sun are at right angles with the Earth, and the tidal range is lowest. There are three types of tidal patterns: diurnal, semidiurnal, and mixed. Typical tidal ranges are approximately 1 m (3 ft). Extreme tidal ranges are around 18 m (60 ft).
+
+```{figure} https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/Tide_schematic.svg_.png
+---
+name: tides
+figclass: margin-caption
+---
+Relative orientation of sun, moon, and Earth resulting in tides of various magnitudes. [Image source](https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/Tide_schematic.svg_.png)
+```
+
+
+```{figure} https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/Tide_type.svg_.png
+---
+name: tidalphase
+figclass: margin-caption
+---
+Distribution of tidal phases for different tidal types. [Image source](https://slcc.pressbooks.pub/app/uploads/sites/35/2021/12/Tide_type.svg_.png)
+```
+
+[Text Source](https://slcc.pressbooks.pub/introgeology/chapter/12-shorelines/)

@@ -33,7 +33,6 @@ project:
 site:
   template: book-theme
   options:
-    favicon: ./favicon.ico
-    logo: ./assets/C_hor-M.png
-    logo_dark: ./assets/C_hor-W.png
+    logo: assets/C_hor-M.png
+    logo_dark: assets/C_hor-W.png
     logo_text: Environmental Geology Lab Manual
