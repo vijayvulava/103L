@@ -9,7 +9,7 @@ project:
     - lab manual
     - environmental geology
   # authors: []
-  github: https://github.com/vijayvulava/103L
+  github: vijayvulava/103L
   math: 
     packages: ["amsmath", "siunitx", "mhchem"]
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
