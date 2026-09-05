@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10Climate.md",
+                "file": "02PlateTectonics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10Climate"
+              "title": "02PlateTectonics"
             }
           }
         ]
@@ -187,7 +187,11 @@
   },
   "active": "75cf39261490db09",
   "lastOpenFiles": [
+    "_build/site/public/02PlateTectonics-a3a4e7ae7d51755d8bc5d798e50f2209.md",
+    "_build/site/public/02PlateTectonics-ab4c58bb872501cf4420befaeba6bfb0.md",
     "04Volcanoes.md",
+    "_build/site/public/04Volcanoes-dae7460d777244da3ce5137be91e978b.md",
+    "10Climate.md",
     "09Groundwater.md",
     "_build/site/public/09Groundwater-93717dbff082b75e80456f58c8694038.md",
     "_build/site/public/09Groundwater-776ad349b21c1e2e72d70544825d9b2d.md",
@@ -218,14 +222,10 @@
     "_build/site/public/09Groundwater-b4a32817b3aaef070c158b04e17cf4a2.md",
     "_build/site/public/09Groundwater-74cd3fa33531ef142ca6909b61152cbf.md",
     "_build/site/public/09Groundwater-42130547ac9ff7dfe69a407e752081c1.md",
-    "_build/site/public/09Groundwater-e7cf2ee5d83d16446b57fd8ec14cea49.md",
     "_build/site/public/00f9e00000828557f0946176da3f5254.jpeg",
-    "_build/site/public/09Groundwater-1c62651a8e4c55015a9dc0e03c8c0b58.md",
     "assets/GW_cross-section-1-scaled-e1596482827551.jpg",
     "assets/Unconfirmed 528115.crdownload",
     "_build/site/public/9911d0662af789b4960a1b0f9643afae.gif",
-    "_build/site/public/09Groundwater-0e925b5f0929c93ea576772ad2943313.md",
-    "_build/site/public/09Groundwater-91e99d7e33e82fab5658b13527c9ff6f.md",
     "_build/site/public/d26cf02187503abadc0a37af72c0a33a.html",
     "assets/Unconfirmed 324512.crdownload",
     "assets/Unconfirmed 260200.crdownload",

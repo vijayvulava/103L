@@ -195,7 +195,7 @@ In a simplified model, there are three categories of tectonic plate boundaries. 
 name: plateboundaries
 figclass: margin-caption
 ---
-The continents are blocks of thick crust that are passengers on the tops of large tectonic plates (lithosphere) that move over a softer part of Earth’s mantle (asthenosphere). Earthquakes, mountain building and volcanic activity occur mostly at the boundaries of the moving plates. Only shallow earthquakes occur where plates diverge at mid-ocean ridges, whereas earthquakes extend to great depth where plates converge at subduction zones. [Image source](https://www.nps.gov/media/photo/gallery-item.htm?pg=6280190&id=fa34870e-3c7b-469b-ab16-101e2b615f67&gid=4BBF72B6-3C5F-4F2E-AAC6-71D6AC2DE4C5)
+The continents are blocks of thick crust that are passengers on the tops of large tectonic plates (lithosphere) that move over a softer part of Earth’s mantle (asthenosphere). Earthquakes, mountain building and volcanic activity occur mostly at the boundaries of the moving plates. Only shallow earthquakes occur where plates diverge at mid-ocean ridges, whereas earthquakes extend to great depth where plates converge at subduction zones. [Image source](https://www.nps.gov/media/photo/gallery-item.htm?pg=6280190&id=fa34870e-3c7b-469b-ab16-101e2b615f67&gid=4BBF72B6-3C5F-4F2E-AAC6-71D6AC2DE4C5
 ```
 
 
